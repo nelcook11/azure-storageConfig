@@ -1,4 +1,3 @@
-# azure-storageConfig
 <h1>MS Azure Storage Configuration Lab</h1>
 
 <h2>Description</h2>
