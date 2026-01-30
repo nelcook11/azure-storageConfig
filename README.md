@@ -1,7 +1,9 @@
 <h1>MS Azure Storage Configuration Lab</h1>
 
 <h2>Description</h2>
-This lab demonstrates the setup of an Azure Storage solution for securely storing and managing unstructured data such as images and documents. The configuration prioritizes data security, controlled access, and cost efficiency. This lab highlights practical experience with Azure Storage design, access governance, and cost optimization. Let me know if you have any questions!<br>
+This lab demonstrates the setup of an Azure Storage solution for securely storing and managing unstructured data such as
+images and documents. This lab highlights practical experience with Azure Storage design, access governance, and
+cost efficiency Let me know if you have any questions!<br>
 <br>
 -Designed an Azure Storage Account aligned to workload and performance needs<br>
 -Organized unstructured data using containers for efficient management<br>
